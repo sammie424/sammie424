@@ -13,11 +13,12 @@ Fala tu!
 😄 Pronomes: ela/dela
 
 ⚡ Fun fact: EU TENHO ESQUIZOFRENIA HAHAHAHAHAHHAHAHAHAHA
+-----------------------------------------------
+  #include <stdio.h> 
+  #include <stdlib.h>
 
-#include <stdio.h> #include <stdlib.h>
+  int main(){
 
-int main(){
-
-printf("hello world!\n");
-system("pause");
-}
+  printf("hello world!\n");
+  system("pause");
+  }
