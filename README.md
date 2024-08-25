@@ -21,5 +21,7 @@ Fala tu!
   int main(){
 
   printf("hello world!\n");
+  
   system("pause");
+  
   }
