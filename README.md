@@ -4,7 +4,7 @@ Fala tu!
 
 👀 procuro coisas
 
-🌱 estou aprendendo C, Html e JS
+🌱 estou aprendendo C, só C mesmo
 
 💞️ procuro pessoas para mandar tomar no cu #fuckyou
 
