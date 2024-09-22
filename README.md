@@ -1,2 +1,1 @@
-the best programmer in my neighborhood\n
-java + c++
+the best programmer in my neighborhood
